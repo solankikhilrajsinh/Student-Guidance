@@ -24,4 +24,4 @@ In addition to providing information about the facilities in VIT Bhopal, such as
 
 ## Demo
 https://youtu.be/BCllhzsaEfg](https://youtube.com/shorts/QEz5Mqe23P4?feature=share
-# " Student-Guidance" 
+#  Student-Guidance 
