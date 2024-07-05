@@ -23,5 +23,5 @@ In addition to providing information about the facilities in VIT Bhopal, such as
 - Permission Handling
 
 ## Demo
-https://youtu.be/BCllhzsaEfg
-"# Student-Guidance" 
+https://youtu.be/BCllhzsaEfg](https://youtube.com/shorts/QEz5Mqe23P4?feature=share
+# " Student-Guidance" 
