@@ -34,3 +34,7 @@ The Student Guidance App is a comprehensive mobile application developed using K
 ## Demo
 Watch the demo here:
 https://www.youtube.com/shorts/QEz5Mqe23P4
+
+
+## Conclusion
+The Student Guidance App delivers a complete and efficient solution for navigating the VIT Bhopal campus and accessing faculty information. By combining Kotlin-based Android development, Firebase integration, and Google Maps services, the app provides a reliable, user-friendly, and modern experience. Its clean UI/UX, interactive features, and streamlined navigation make it a valuable tool for students, parents, and visitors. The project demonstrates strong frontend and backend development skills and showcases the practical application of mobile technologies for real-world campus assistance.
